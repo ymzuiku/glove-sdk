@@ -14,7 +14,14 @@ pnpm i glove-sdk
 yarn add glove-sdk
 ```
 
-### Or use html script
+In your project import the `glove-sdk`
+
+```js
+import "glove-sdk";
+// OK, It's done
+```
+
+### Or add `<script></script>` in your `html`
 
 ```html
 <script>
@@ -25,13 +32,6 @@ yarn add glove-sdk
     (d.head || d.body).appendChild(s);
   })(window, document);
 </script>
-```
-
-## Use
-
-```js
-import "glove-sdk";
-// OK, It's done
 ```
 
 More details view: [Glove Website](https://glove.gewulian.com/)
