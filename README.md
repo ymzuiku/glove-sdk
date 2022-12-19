@@ -31,6 +31,7 @@ import "glove-sdk";
     s.async = true;
     (d.head || d.body).appendChild(s);
   })(window, document);
+  // OK, It's done
 </script>
 ```
 
