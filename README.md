@@ -2,7 +2,7 @@
 
 glove-sdk is [Glove testing sdk](https://glove.gewulian.com/) modules.
 
-## Install
+## Start
 
 ### Use npm
 
